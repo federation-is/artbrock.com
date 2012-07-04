@@ -22,6 +22,6 @@ Based in Denver, Colorado, Arthur Brock consults worldwide with organizations wh
 
 * * *
 
-This page was forked with permission from <a href="http://www.artbrock.com/" target="_blank">http://www.artbrock.com/</a>
+This page was forked with permission from <a href="http://www.artbrock.com/home" target="_blank">http://www.artbrock.com/home</a>
 
 * * *<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a> <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>
